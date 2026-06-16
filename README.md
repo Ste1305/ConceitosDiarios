@@ -1,10 +1,10 @@
-# Conceitos Diários
+# **Conceitos Diários**
 
-Uma forma de aprender é fixar os argumentos na escrita.
-Assim, o que for aprendido ao longo do dia, vai ser resumido aqui.
+## *Uma forma de aprender é fixar os argumentos na escrita.*
+
+### O que for aprendido ao longo do dia, vai ser resumido aqui.
 
 Vou consider esse projeto como o meu diário de aprendimento pessoal.
-Os temas serão variados, mas sempre inerentes ao mundo da tecnologia.
 
 - **Redes de computadores**
   - Protocólos
@@ -21,6 +21,6 @@ Os temas serão variados, mas sempre inerentes ao mundo da tecnologia.
 - **Computação na Nuvem**
 
 ## Vou criar esse hábito a partir do dia 15/06/2026.
-  
+
 
 
