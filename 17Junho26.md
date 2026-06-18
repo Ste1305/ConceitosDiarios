@@ -50,15 +50,15 @@
     - *Exemplo*: tem que escolher uma bebida entre 3 tipos de sucos e 4 tipos de refrigerantes; se você escolhe apenas uma bebidas, tem $3 + 4 = 7$ possiveis escolhas.
     - *Se os conjuntos A e B **NÃO TÊM** elementos em comum (união)*: $A = \{1; 2; 3\}$ e $B = \{4; 5; 6; 7\}$ logo $|A \cup B| = |A| + |B|$ ou seja $|A \cup B| = 3 + 4 = 7$.
     - *Se os conjuntos A e B **TÊM** elementos em comum (interseção)*: $A = \{1; 2; 3\}$ e $B = \{3; 4; 5\}$ logo $|A \cup B| = |A| + |B| - |A \cap B|$ devemos retirar a interseção dos dois conjuntos porque senão ficariam repetidos (*Príncipios da Inclusão - Exclusão*); ex: Quantos numeros entre 1 e 100 são multiplos de 2 **ou** 5? Múltiplos de 2 = 50; Múltiplos de 5 = 20; se somarmos $50 + 20 = 70$ estamos contando os multiplos de 10 duas vezes, logo $50+20-10=60$.
-- **Príncipios de Contagem - Príncipio da Multiplicação**: se uma tarefa pode ser realizada em etapas, e a primeira etapa pode ser feita de $m$ maneiras, a segunda etapa de $n$ maneiras, então o total de maneiras será $m*n$ maneiras.
-    - *Exemplo 1*: Você tem 3 camisetas e 4 calças e quer formar um conjunto de roupa, logo terá $3 * 4 = 12$ combinações possíveis.
-    - *Exemplo 2*: uma senha tem 2 letras e 3 digitos, sabendo que as letras são 26 e os digitos 10, logo $26*26*10*10*10=676000$ senhas possiveis.
+- **Príncipios de Contagem - Príncipio da Multiplicação**: se uma tarefa pode ser realizada em etapas, e a primeira etapa pode ser feita de $m$ maneiras, a segunda etapa de $n$ maneiras, então o total de maneiras será $m\times n$ maneiras.
+    - *Exemplo 1*: Você tem 3 camisetas e 4 calças e quer formar um conjunto de roupa, logo terá $3 \times 4 = 12$ combinações possíveis.
+    - *Exemplo 2*: uma senha tem 2 letras e 3 digitos, sabendo que as letras são 26 e os digitos 10, logo $26\times 26\times 10\times 10\times 10=676000$ senhas possiveis.
 
 | Adição | Multiplicação |
 | :---: | :---: |
 | Palavra chave: **OU** | Palavra chave: **E** |
-- **Fatorial**: o fatorial é um aplicação do *Princípio da Multiplicação*, pois ele se aplica em casos onde temos que ordenar objetos distintos e precisamos saber quantas maneiras hà, e em Multiplicações onde as escolhas diminuem sucessivamente. $n! = n*(n-1)*(n-2)*...*2*1$. $0!=1$ por convenção.
+- **Fatorial**: o fatorial é um aplicação do *Princípio da Multiplicação*, pois ele se aplica em casos onde temos que ordenar objetos distintos e precisamos saber quantas maneiras hà, e em Multiplicações onde as escolhas diminuem sucessivamente. $n! = n\times(n-1)\times(n-2)\times...\times 2\times 1$. $0!=1$ por convenção.
     - *Exemplo*: tem 4 pessoas e você deve coloca eles numa fila: a primeira posição será ocupada por uma pessoa, sobram 3 agora; a segunda posição será ocupada por outra pessoa, sobram 2; a terceira posição vai para outra pessoa, agora sobra 1; quarta posição vai para a ultima pessoa; logo $4*3*2*1=24$ ou seja $4!=24$.
     - *Relação com o Princípio da Multiplicação*:
-        - Princípio da Multiplicação: $n_1*n_2*...*n_k$
-        - Fatorial: $n*(n-1)*(n-2)*...*2*1$
+        - Princípio da Multiplicação: $n_1\times n_2\times...\times n_k$
+        - Fatorial: $n\times(n-1)\times(n-2)\times...\times 2\times 1$
