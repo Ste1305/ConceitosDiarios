@@ -40,10 +40,10 @@
 
 | Operação | Representação | Descrição |
 | :---: | :---: | :---: |
-| Interseção | $A \cap B = \{x \in \mathbb{U} \mid x \in A \text{ e } x \in B$ | Objetos que pertencem ao mesmo tempo ao conjunto A **E** B |
-| União | $A \cup B = \{x \in \mathbb{U} \mid x \in A \text{ ou } x \in B$ | Objetos que pertencem pelo menos ao conjunto A **OU** B, podendo eventualmente pertencer à ambos |
-| Diferença | $A - B = \{x \in \mathbb{U} \mid x \in A \text{ e } x \notin B$ | Os objetos que pertencem ao conjunto A, mais não ao conjunto B |
-| Complementar | $A'= \{x \in \mathbb{U} \mid x \notin A$ | Os objetos que **NÃO** pertencem ao conjunto A mas pertencem ao Conjunto U |
+| Interseção | $A \cap B = \{x \in \mathbb{U} \mid x \in A \text{ e } x \in B\}$ | Objetos que pertencem ao mesmo tempo ao conjunto A **E** B |
+| União | $A \cup B = \{x \in \mathbb{U} \mid x \in A \text{ ou } x \in B\}$ | Objetos que pertencem pelo menos ao conjunto A **OU** B, podendo eventualmente pertencer à ambos |
+| Diferença | $A - B = \{x \in \mathbb{U} \mid x \in A \text{ e } x \notin B\}$ | Os objetos que pertencem ao conjunto A, mais não ao conjunto B |
+| Complementar | $A'= \{x \in \mathbb{U} \mid x \notin A\}$ | Os objetos que **NÃO** pertencem ao conjunto A mas pertencem ao Conjunto U |
 
 - **Princípios de Contagem - Casa dos Pombos**: se você colocar mais casas do que pombos, então pelo menos uma casa conterá mais de um pombo, ou seja *se $n + 1$ objetos forem distribuidos em $n$ caixas, então pelo menos uma caixa conterá pelo menos 2 objetos*; esse príncipio é usado para provar a ocorrência de alguma coisa, mesmo sem saber exatamente onde.
 - **Príncipios de Contagem - Príncipio de Adição**: o total das possiveis maneiras de executar uma tarefa, que pode ser executadas de varias maneiras exclusivas, é a soma das possibilidades de cada maneira.
