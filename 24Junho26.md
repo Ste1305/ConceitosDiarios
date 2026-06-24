@@ -34,7 +34,7 @@ class MyClass{
     }
 }
 ```
-    - Os construtores da classe pai não são herdados (pois não são atributos nem metodos), porem são chamados quando a subclasse é instanciada.
+   - Os construtores da classe pai não são herdados (pois não são atributos nem metodos), porem são chamados quando a subclasse é instanciada.
 
 - **Polimorfismo**: o polimorfismo acontece quando tem uma hierarquia di classes relacionadas através da herança, ou seja a classe pai tem um metodo próprio, que as classes filhas herdam, mas que pode produzir diferentes resultados de acordo com que o usa (overriding):
 
