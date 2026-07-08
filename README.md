@@ -21,6 +21,9 @@ Vou consider esse projeto como o meu diário de aprendimento pessoal, e tambem c
   - Funcionamento do SO
 - **Computação na Nuvem**
 - **Matematica e Lógica**
+- **Git**
+  - Comandos
+  - GitHub
 
 ## Vou criar esse hábito a partir do dia 15/06/2026.
 O intuito é ter um hábito diario, construindo disciplina e forma de estudar e gravar noções.
