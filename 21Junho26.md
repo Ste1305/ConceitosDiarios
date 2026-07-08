@@ -28,7 +28,7 @@ Siga as seguintes regras na implementação:
     - Se estiver na 6ª marcha sua velocidade pode estar entre 101km e 120km.
 
 - O carro podera ser desligado se estiver em ponto morto (marcha 0) e sua velocidade em 0 km.
-- O carro só pode virar para esquerda/direita se sua velocidade for de no mínimi 1km e no máximo 40km.
+- O carro só pode virar para esquerda/direita se sua velocidade for de no mínimo 1km e no máximo 40km.
 
 Aqui o link GitHub do exercicio que desenvolvi [exercicio Car](https://github.com/Ste1305/Java_Exercicios/tree/main/Car).
 
